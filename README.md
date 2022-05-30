@@ -29,7 +29,7 @@ The task of lab 9 was to work through the "Create a release based workflow" less
 <br>
 Project 1:<br> 
 As the first project of the class, project 1 simply required students to work with visual studio code and the command terminal on a basic level.
-
+<br>
 Project 2:<br> 
 The purpose of this second project was mainly to get students thinking about editing their code, so the main task was refactoring given code.
 
