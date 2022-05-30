@@ -25,7 +25,7 @@ In lab 8, students were asked to use skills they learned throughout the term. Th
 Lab 9:<br> 
 The task of lab 9 was to work through the "Create a release based workflow" lesson on GitHub.
 <br>
-
+<br>
 Project 1:<br> 
 As the first project of the class, project 1 simply required students to work with visual studio code and the command terminal on a basic level.
 
