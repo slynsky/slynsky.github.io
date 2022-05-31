@@ -1,3 +1,5 @@
+# CIT 281 - Spring Term 2022<br>
+
 Lab 1:<br>
 This lab included basic setup of students' personal computers to prepare them for the class. It also included a basic introduction to using the command terminal.
 
