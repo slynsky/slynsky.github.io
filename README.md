@@ -1,7 +1,7 @@
 # CIT 281 - Spring Term 2022<br>
 ![Portland Neon Sign](zack-spear-ZB_Ns0hVZNk-unsplash.jpg)
 
-Lab 1:<br>
+[Lab 1:](https://slynsky.github.io/cit281-lab1/)<br>
 This lab included basic setup of students' personal computers to prepare them for the class. It also included a basic introduction to using the command terminal.
 
 Lab 2:<br>
